@@ -1,2 +1,2 @@
-# qvs-pricing-table
-Skeleton for a simple CSS pricing table
+# qvs-pricing-box
+Skeleton for simple CSS pricing boxes
