@@ -1,0 +1,29 @@
+/*
+Styles for QVS Simple Pricing Table
+*/
+
+.qvs-pricing-table {
+  background-color: #ccc;
+  padding: 25px;
+  width: 33.333%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.qvs-pricing-table-title {
+  font-family: 'Arial', sans-serif;
+  font-weight: 700;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.qvs-pricing-table > ul > li {
+  list-style-type: none;
+  padding: 15px;
+  border-bottom: 1px solid #464D44;
+}
+
+.qvs-pricing-table > ul > li:nth-child(1) {
+  border-top: 3px solid #464D44;
+  margin-top: 40px;
+}
