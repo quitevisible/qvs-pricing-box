@@ -1,49 +1,50 @@
 /*
 Styles for QVS Simple Pricing Table
+
 */
 
 .qvs-pricing-box-wrap {
-  min-width: 300px;
-  float: left;
-  clear: right;
-  margin: 5px;
+    min-width: 300px;
+    float: left;
+    clear: right;
+    margin: 5px;
 }
 
 .qvs-pricing-box {
-  background-color: #ccc;
-  min-height: 450px;
-  padding: 10px 25px;
-  width: 80%;
-  margin: 0 auto;
-  text-align: center;
+    background-color: #ccc;
+    min-height: 450px;
+    padding: 10px 25px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .qvs-pricing-box-title {
-  font-family: 'Arial', sans-serif;
-  font-weight: 700;
-  font-size: 2em;
-  margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 2em;
+    margin-bottom: 20px;
 }
 
 .qvs-pricing-box-alignleft {
-  text-align: left;
+    text-align: left;
 }
 
 .qvs-pricing-box > ul {
-  margin-left: -25px;
+    margin-left: -25px;
 }
 
 .qvs-pricing-box > ul > li {
-  list-style-type: none;
-  padding: 15px;
-  border-bottom: 1px solid #464D44;
+    list-style-type: none;
+    padding: 15px;
+    border-bottom: 1px solid #464D44;
 }
 
 .qvs-pricing-box > ul > li:nth-child(1) {
-  border-top: 3px solid #464D44;
-  margin-top: 40px;
+    border-top: 3px solid #464D44;
+    margin-top: 40px;
 }
 
 .qvs-pricing-box > ul > li:last-child {
-  margin-bottom: 40px;
+    margin-bottom: 40px;
 }
